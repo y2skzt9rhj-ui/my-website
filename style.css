@@ -1,0 +1,32 @@
+
+/* Phần Decor */
+body {
+    background-color: #b5b4b4;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 20;
+}
+
+h1 {
+  border-bottom : 2px solid #ffffff;
+  color: #ef1224;
+  padding-bottom: 10px;
+}
+
+
+h2 {
+    border-bottom : 2px solid #ffffff;
+    color: #afc822;
+    padding-bottom: 10px;
+}
+
+h3 {
+    border-bottom : 2px solid #ffffff;
+    color: #8fe958;
+    padding-bottom: 10px;
+}
+
+p {
+    color: #f1d60e;
+    line-height: 1.6;
+}   
